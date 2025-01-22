@@ -1,2 +1,14 @@
-# Web-Scrapper
-Web scraping project using Selenium with the Firefox driver. Extracts structured data from HTML pages by automating browser actions like scrolling and clicking. Data is parsed and stored in CSV/Excel format. Ideal for scraping e-commerce sites, product listings, and news articles with error handling and scalability.
+Web Scraping with Firefox Driver (Selenium)
+
+This project demonstrates how to automate web scraping tasks using Selenium WebDriver with the Firefox driver. It extracts structured data from web pages by parsing the HTML elements, automating browser interactions, and handling dynamic content. Ideal for gathering data from e-commerce sites, news articles, and product listings.
+
+Key Features:
+Extract data from HTML pages using tags, classes, and IDs.
+Automate browser actions such as scrolling and clicking.
+Store scraped data in CSV/Excel format.
+Handle errors like missing elements or page loading delays.
+Scalable for scraping multiple pages or entire websites.
+Technologies:
+Python
+Selenium
+Firefox WebDriver
